@@ -20,6 +20,5 @@ echo "<p><font size='+2'><b>Thou " . $cola[array_rand($cola)] . " " . $colb[arra
 
 echo "<a href=\"insult.php\">Get another one</a>";
 echo "<p>Also check out the <a href=\"http://commonfolkcollective.com/blog\">Common Folk Collective Blog</a></p>\n";
-echo "<p>Back to <a href=\"http://dcdan.com\">DCDan</a></p>\n"; ?>
-<?php
-echo "</body>\n</html>"
+echo "<p>Back to <a href=\"http://dcdan.com\">DCDan</a></p>\n";
+echo "</body>\n</html>";
